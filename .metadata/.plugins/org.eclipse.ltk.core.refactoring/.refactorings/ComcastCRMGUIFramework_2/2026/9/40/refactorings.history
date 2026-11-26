@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;ComcastCRMGUIFramework_2&apos;&#x0D;&#x0A;- Original project: &apos;ComcastCRMGUIFramework_2&apos;&#x0D;&#x0A;- Original element: &apos;report_Tue_Sep_29_00_08_41_IST_2026.html&apos;" description="Delete element" element1="AdvanceReport/report_Tue_Sep_29_00_08_41_IST_2026.html" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1790621687699" subPackages="false" version="1.0"/>
+</session>
